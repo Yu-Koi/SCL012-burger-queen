@@ -1,0 +1,42 @@
+[debug] [2020-03-13T12:42:30.283Z] ----------------------------------------------------------------------
+[debug] [2020-03-13T12:42:30.287Z] Command:       /usr/local/bin/node /usr/local/bin/firebase init
+[debug] [2020-03-13T12:42:30.287Z] CLI Version:   7.12.1
+[debug] [2020-03-13T12:42:30.287Z] Platform:      darwin
+[debug] [2020-03-13T12:42:30.287Z] Node Version:  v13.8.0
+[debug] [2020-03-13T12:42:30.297Z] Time:          Fri Mar 13 2020 09:42:30 GMT-0300 (hora de verano de Chile)
+[debug] [2020-03-13T12:42:30.297Z] ----------------------------------------------------------------------
+[debug] [2020-03-13T12:42:30.297Z] 
+[debug] [2020-03-13T12:42:30.319Z] > command requires scopes: ["email","openid","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase","https://www.googleapis.com/auth/cloud-platform"]
+[debug] [2020-03-13T12:42:30.319Z] > authorizing via signed-in user
+[info] 
+     ######## #### ########  ######## ########     ###     ######  ########
+     ##        ##  ##     ## ##       ##     ##  ##   ##  ##       ##
+     ######    ##  ########  ######   ########  #########  ######  ######
+     ##        ##  ##    ##  ##       ##     ## ##     ##       ## ##
+     ##       #### ##     ## ######## ########  ##     ##  ######  ########
+
+You're about to initialize a Firebase project in this directory:
+
+  /Users/nerymarguarnizo
+
+Before we get started, keep in mind:
+
+  * You are initializing in an existing Firebase project directory
+
+[info] 
+=== Project Setup
+[info] 
+[info] First, let's associate this project directory with a Firebase project.
+[info] You can create multiple project aliases by running firebase use --add, 
+[info] but for now we'll just set up a default project.
+[info] 
+[info] i  .firebaserc already has a default project, using red-social-94f04.
+[debug] [2020-03-13T12:44:50.907Z] >>> HTTP REQUEST GET https://firebase.googleapis.com/v1beta1/projects/red-social-94f04  
+ 
+[debug] [2020-03-13T12:44:52.107Z] <<< HTTP RESPONSE 200
+[info] 
+=== Database Setup
+[info] 
+[info] Firebase Realtime Database Rules allow you to define how your data should be
+[info] structured and when your data can be read from and written to.
+[info] 

@@ -53,6 +53,7 @@ La distribución en una sola página permite una interacción rápida y de uso i
 
 ## 6. Herramientas Utilizadas 🛠
 * JavaScript(ES6)
+* REACT js
 * HTML5
 * CSS3
 * Firebase
